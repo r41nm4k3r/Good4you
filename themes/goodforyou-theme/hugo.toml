@@ -1,10 +1,10 @@
-baseURL = 'https://r41nm4k3r.github.io/Good4you/'
+baseURL = ''
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 
 [[menus.main]]
 name = 'Home'
-pageRef = 'https://r41nm4k3r.github.io/Good4you/'
+pageRef = '/'
 weight = 10
 
 [[menus.main]]
