@@ -148,13 +148,13 @@ header.scrolled .logo-text-sub {
 .theme-toggle-group {
   display: flex;
   align-items: center;
-  border: 1px solid var(--dark-accent);
+  border: 3px solid var(--dark-accent);
   border-radius: 6px;
   overflow: hidden;
 }
 
 [data-theme="dark"] .theme-toggle-group {
-  border-color: #555;
+  border-color: #111;
 }
 
 .theme-radio {
