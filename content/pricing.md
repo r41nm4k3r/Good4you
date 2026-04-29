@@ -6,20 +6,34 @@ layout: "pricing"
 ---
 We structure our pricing so that high-quality, custom web development is accessible to all small business owners.
 
-## Handcrafted Basic
-**$1,500 Down**
+## Essentials (New!)
+**$75 Per Month**
 
-Ideal for localized service businesses that need a blazing fast, standard 5-page setup.
-- 5 Pages
-- Standard SEO
-- Mobile Optimized
-- Site Hosting & Maintenance
+Perfect for small businesses just getting started online.
+- 2 Pages Included (Limited)
+- Design & Dev Included
+- Unlimited Edits
+- Hosting Included
+- Continued Support
 
-## Handcrafted Pro
-**$3,000 Down**
+## Monthly (Recommended)
+**$175 Per Month**
 
-For businesses that require advanced layouts, content creation, and custom graphics.
-- 10 Pages
-- Custom Graphics
-- Advanced SEO
-- Premium Support
+Full service subscription with $0 down and zero stress.
+- 5 Pages Included
+- Design & Dev Included
+- Unlimited Edits
+- Hosting Included
+- Continued Support
+- Add-ons Available
+
+## Up Front
+**$3,750 Down**
+
+Best for businesses that want to own their site outright.
+- 5 Pages Included
+- Design & Dev Included
+- Unlimited Edits
+- $25/mo Hosting
+- Limited Support
+- Add-ons Available
