@@ -149,7 +149,7 @@ header.scrolled .logo-text-sub {
   background: none;
   border: none;
   cursor: pointer;
-  color: var(--text-dark);
+  color: #111;
 }
 
 .theme-toggle-group {
